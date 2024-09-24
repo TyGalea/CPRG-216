@@ -1,0 +1,120 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Assignment Programing group 16/Assignment Functions, Scoping and Abstraction.py"
+The Painter's Company Estimating Tool
+
+Enter price of paint: 52.57
+Enter number of coats of paint to apply (1-4): 2
+How many rooms do you want to paint?: 3
+
+Room: 1
+Select the shape of the room:
+1 - Rectangular
+2 - Square
+3 - Custom
+Option: 2
+Enter length of one wall in feet    : 15
+Enter the height of the room in feet: 10
+
+How many windows and doors are in the room? 3
+
+Enter length for window/door 1 in feet: 4
+Enter width  for window/door 1 in feet: 8
+Enter length for window/door 2 in feet: 5
+Enter width  for window/door 2 in feet: 7
+Enter length for window/door 3 in feet: 6
+Enter width  for window/door 3 in feet: 10
+
+For Room: 1
+        Area to be painted: 946.0 sq ft.
+        Paint required    : 5.41 gallons
+        Paint cost(approx): $284.18
+
+Room: 2
+Select the shape of the room:
+1 - Rectangular
+2 - Square
+3 - Custom
+Option: 1
+
+Enter the length of the room in feet: 16
+Enter the width  of the room in feet: 20
+Enter the height of the room in feet: 15
+
+How many windows and doors are in the room? 2
+
+Enter length for window/door 1 in feet: 5
+Enter width  for window/door 1 in feet: 12
+Enter length for window/door 2 in feet: 5
+Enter width  for window/door 2 in feet: 8
+
+For Room: 2
+        Area to be painted: 1960.0 sq ft.
+        Paint required    : 11.20 gallons
+        Paint cost(approx): $588.78
+
+Room: 3
+Select the shape of the room:
+1 - Rectangular
+2 - Square
+3 - Custom
+Option: 3
+
+How many wall are there in the room? 3
+Enter the length of wall 1 in feet: 8
+Enter the height of wall 1 in feet: 10
+Enter the length of wall 2 in feet: 6.5
+Enter the height of wall 2 in feet: 10
+Enter the length of wall 3 in feet: 5.5
+Enter the height of wall 3 in feet: 10
+
+How many windows and doors are in the room? 1
+
+Enter length for window/door 1 in feet: 4
+Enter width  for window/door 1 in feet: 8
+
+For Room: 3
+        Area to be painted: 336.0 sq ft.
+        Paint required    : 1.92 gallons
+        Paint cost(approx): $100.93
+
+Customer Quote for All 3 rooms:
+        Coats of paint to be appied: 2
+        Total area to be painted   : 3242.0 sq ft.
+        Paint required             : 19 gallons
+        Total customer estimate    : $2135.11
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Assignment Programing group 16/Assignment Functions, Scoping and Abstraction.py"
+The Painter's Company Estimating Tool
+
+Enter price of paint: 47.19
+Enter number of coats of paint to apply (1-4): 3
+How many rooms do you want to paint?: 1
+
+Room: 1
+Select the shape of the room:
+1 - Rectangular
+2 - Square
+3 - Custom
+Option: 1
+
+Enter the length of the room in feet: 9.5
+Enter the width  of the room in feet: 12
+Enter the height of the room in feet: 8
+
+How many windows and doors are in the room? 3
+
+Enter length for window/door 1 in feet: 3.5
+Enter width  for window/door 1 in feet: 8
+Enter length for window/door 2 in feet: 3.5
+Enter width  for window/door 2 in feet: 8
+Enter length for window/door 3 in feet: 6
+Enter width  for window/door 3 in feet: 8
+
+For Room: 1
+        Area to be painted: 720.0 sq ft.
+        Paint required    : 4.11 gallons
+        Paint cost(approx): $194.15
+
+Customer Quote for All 1 rooms:
+        Coats of paint to be appied: 3
+        Total area to be painted   : 720.0 sq ft.
+        Paint required             : 5 gallons
+        Total customer estimate    : $514.21

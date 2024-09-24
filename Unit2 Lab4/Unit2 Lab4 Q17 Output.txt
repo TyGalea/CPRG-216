@@ -1,0 +1,22 @@
+PS C:\CPRG216S\Unit2 Lab4> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab4/Unit2 Lab4 Q17.py"
+Common 1st Year Courses:
+     COMM-238
+     MATH-237
+     PHIL-241
+     CPRG-216
+
+ITS-only 1st Year Courses:
+     CMPH-209
+     CPSY-204
+     CPSY-206
+     CPRG-217
+     CPNT-224
+     CPNT-219
+
+SD-only 1st Year Courses:
+     CPRG-211
+     CPRG-213
+     CPSY-202
+     CPRG-250
+     CPSY-200
+     CPNT-217

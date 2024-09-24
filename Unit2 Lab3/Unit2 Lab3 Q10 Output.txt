@@ -1,0 +1,4 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab3/Unit2 Lab3 Q10.py"
+Enter an integer > 1: 22
+
+The average of the integers 1...22 is 11.5

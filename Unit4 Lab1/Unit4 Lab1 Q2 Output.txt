@@ -1,0 +1,8 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit4 Lab1/Unit4 Lab1 Q2.py"
+Circle 1
+        Area      = 201.0619
+        Perimiter = 50.2655
+Circle 1
+        Area      = 78.5398
+        Perimiter = 31.4159
+Number of circles =  2

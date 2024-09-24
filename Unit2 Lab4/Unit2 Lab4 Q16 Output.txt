@@ -1,0 +1,11 @@
+PS C:\CPRG216S\Unit2 Lab4> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab4/Unit2 Lab4 Q16.py"
+Enter Population for Northwest Territories: 42514
+Enter Population for Yukon: 31530
+Enter Population for Nunavut: 31152
+Territory                          Population
+=============================================
+Northwest Territories                  42,514
+Yukon                                  31,530
+Nunavut                                31,152
+=============================================
+Total                                 105,196

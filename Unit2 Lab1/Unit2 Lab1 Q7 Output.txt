@@ -1,0 +1,4 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab1 Q7.py"      
+Enter radius of circle (cm): 5
+Circumference = 31.415926 cm
+Area = 78.539815 square cm

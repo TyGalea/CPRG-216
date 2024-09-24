@@ -1,0 +1,20 @@
+print("Quest Phones Profit Calculator\n")
+category = int(input("Enter product number (1-5 or 0 to stop): "))
+profitTotal = 0.00
+while category != 0:
+    if category > 0 and category <= 5:
+        quantity = int(input("Enter quantity sold: "))
+    if category == 1:
+        profitTotal += quantity * 127.68
+    elif category == 2:
+        profitTotal += quantity * 105.47
+    elif category == 3:
+        profitTotal += quantity * 80.23
+    elif category == 4:
+        profitTotal += quantity * 69.67
+    elif category == 5:
+        profitTotal += quantity * 54.57
+    else:
+        print("Product number must be between 1 and 5 or 0 to exit... Try Again")
+    category = int(input("Enter product number (1-5 or 0 to stop): "))
+print("\nTotal Profit for today is: $", format(profitTotal, '.2f'), sep='')

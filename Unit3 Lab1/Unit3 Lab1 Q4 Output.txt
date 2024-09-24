@@ -1,0 +1,61 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit3 Lab1/Unit3 Lab1 Q4.py"
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+0. Exit
+Enter menu option: 4
+Enter first number: 5.1
+Enter second number: 1.7
+5.1 / 1.7 = 3.0
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+0. Exit
+Enter menu option: 4
+Enter first number: 5.1
+Enter second number: 0
+5.1 / 0.0 = Cannot divide by 0
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+0. Exit
+Enter menu option: 1
+Enter first number: 5.1
+Enter second number: 1.7
+5.1 + 1.7 = 6.8
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+0. Exit
+Enter menu option: 2
+Enter first number: 5.1
+Enter second number: 1.7
+5.1 - 1.7 = 3.3999999999999995
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+0. Exit
+Enter menu option: 3
+Enter first number: 5.1
+Enter second number: 1.7
+5.1 * 1.7 = 8.67
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+0. Exit
+Enter menu option: 7
+Enter menu option: f
+Enter menu option: 0
+Calculator app closed

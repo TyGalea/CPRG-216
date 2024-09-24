@@ -1,0 +1,2 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit3 Lab2/Unit3 Lab2 Q1.py"
+Recived 6 gifts including cash of $1,550.00

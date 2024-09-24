@@ -1,0 +1,8 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab2/Unit2 Lab2 Q5.py"
+Enter first integer: 25
+Enter second integer: 5
+25 is a multiple of 5
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab2/Unit2 Lab2 Q5.py"
+Enter first integer: 45
+Enter second integer: 7
+45 is a not multiple of 7

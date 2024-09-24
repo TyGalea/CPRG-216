@@ -1,0 +1,2 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab3/Unit2 Lab3 Q11.py"
+55

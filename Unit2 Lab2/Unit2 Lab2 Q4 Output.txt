@@ -1,0 +1,50 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab2/Unit2 Lab2 Q4.py"
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Enter menu option: 1
+Enter first number: 5.1
+Enter second number: 1.7
+5.1 + 1.7 = 6.8
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab2/Unit2 Lab2 Q4.py"
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Enter menu option: 2
+Enter first number: 5.1
+Enter second number: 1.7
+5.1 - 1.7 = 3.3999999999999995
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab2/Unit2 Lab2 Q4.py"
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Enter menu option: 3 
+Enter first number: 5.1
+Enter second number: 1.7
+5.1 * 1.7 = 8.67
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab2/Unit2 Lab2 Q4.py"
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Enter menu option: 4
+Enter first number: 5.1
+Enter second number: 1.7
+5.1 / 1.7 = 3.0
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab2/Unit2 Lab2 Q4.py"
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Enter menu option: 4
+Enter first number: 10
+Enter second number: 0
+Cannot divide by 0

@@ -1,0 +1,6 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab1 Q3.py"
+Enter length of base 1: 5
+Enter length of base 2: 10
+Enter hight: 7
+
+The area of the trapezoid is: 52.5

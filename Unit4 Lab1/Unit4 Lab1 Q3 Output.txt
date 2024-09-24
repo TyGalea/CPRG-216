@@ -1,0 +1,18 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit4 Lab1/Unit4 Lab1 Q3.py"
+Opening Balance
+Account Number   : 487512
+Customer Name    : Dave
+Account Balance  : $2,300.00
+
+Withdrawing:   300.0
+Withdrawal Successful
+
+Withdrawing:   3000.0
+Withdrawal Unsuccessful
+
+Depositing 253.29
+
+Closing Balance
+Account Number   : 487512
+Customer Name    : Dave
+Account Balance  : $2,253.29

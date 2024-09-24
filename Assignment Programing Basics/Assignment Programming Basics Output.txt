@@ -1,0 +1,42 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/REC Monthly Utility Bill Calculator.py"
+Welcome to Responsible Energy bill calculator!
+
+Enter the account number: 123456
+Enter the month number, i.e. for January, enter 1: 2
+Enter the electricity plan type (EFR or EVR): EFR
+Enter amount of electricity used in month 2 (in kWh): 500
+Enter the gas plan type (GFR or GVR): GFR
+Enter amount of gas used in month 2 (in GJ): 700
+Enter the province abbreviation (2 letters): AB
+Thank you!
+Monthly Utility Charge: $207.37
+Provincial Sales Tax: $10.37
+Total Amount Due Now: $217.74
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/REC Monthly Utility Bill Calculator.py"
+Welcome to Responsible Energy bill calculator!
+
+Enter the account number: 456789
+Enter the month number, i.e. for January, enter 1: 4
+Enter the electricity plan type (EFR or EVR): EVR
+Enter amount of electricity used in month 4 (in kWh): 700
+Enter the gas plan type (GFR or GVR): GVR
+Enter amount of gas used in month 4 (in GJ): 650
+Enter the province abbreviation (2 letters): NS
+Thank you!
+Monthly Utility Charge: $223.99
+Provincial Sales Tax: $33.60
+Total Amount Due Now: $257.58
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/REC Monthly Utility Bill Calculator.py"
+Welcome to Responsible Energy bill calculator!
+
+Enter the account number: 147852
+Enter the month number, i.e. for January, enter 1: 11
+Enter the electricity plan type (EFR or EVR): EFR
+Enter amount of electricity used in month 11 (in kWh): 1100
+Enter the gas plan type (GFR or GVR): GVR
+Enter amount of gas used in month 11 (in GJ): 1320
+Enter the province abbreviation (2 letters): ON
+Thank you!
+Monthly Utility Charge: $282.87
+Provincial Sales Tax: $36.77
+Total Amount Due Now: $319.65

@@ -1,0 +1,7 @@
+firstName = input("Enter First Name: ")
+lastName = input("Enter Last Name: ")
+age = input("Enter Age: ")
+gpa = input("Enter GPA: ")
+major = input("Enter Major: ")
+print("\nWelcome to CPRG216", firstName, lastName + "!")
+print("Age", age + ", GPA", gpa + ", Major", major)

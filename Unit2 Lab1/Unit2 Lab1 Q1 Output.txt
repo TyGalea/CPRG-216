@@ -1,0 +1,9 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab1 Q1.py"
+Enter First Name: Sammy
+Enter Last Name: Jones
+Enter Age: 25
+Enter GPA: 3.7
+Enter Major: SD
+
+Welcome to CPRG216 Sammy Jones!
+Age 25, GPA 3.7, Major SD

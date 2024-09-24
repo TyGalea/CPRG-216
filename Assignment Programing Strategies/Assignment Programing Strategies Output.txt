@@ -1,0 +1,156 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Assignment Programing group 16/Quest Phones Profit Calculator Part 2.py"
+Quest Phones Profit Calculator
+
+  Option     Time Period
+       1     Single Day
+       2     Entire Week
+       3     Only Weekdays: Mon-Fri
+       4     Only Weekend Days: Sun & Sat
+       0     Exit
+Enter menu option: 1
+Enter a specific day [Sun, Mon, Tue, Wed, Thu, Fri, Sat]: Mon
+For Mon
+Enter product number (1-5 or 0 to stop): 1
+Enter quantity sold: 37
+Enter product number (1-5 or 0 to stop): 4
+Enter quantity sold: 52
+Enter product number (1-5 or 0 to stop): 0
+
+Total Profit for the Mon is: $8,347.00
+Did not achieved daily profit goal of $10,000.00/day for option "Mon"
+
+Quest Phones Profit Calculator
+
+  Option     Time Period
+       1     Single Day
+       2     Entire Week
+       3     Only Weekdays: Mon-Fri
+       4     Only Weekend Days: Sun & Sat
+       0     Exit
+Enter menu option: 2
+For Sun
+Enter product number (1-5 or 0 to stop): 0
+For Mon
+Enter product number (1-5 or 0 to stop): 2
+Enter quantity sold: 600
+Enter product number (1-5 or 0 to stop): 0
+For Tue
+Enter product number (1-5 or 0 to stop): 0
+For Wed
+Enter product number (1-5 or 0 to stop): 0
+For Thu
+Enter product number (1-5 or 0 to stop): 0
+For Fri
+Enter product number (1-5 or 0 to stop): 0
+For Sat
+Enter product number (1-5 or 0 to stop): 3
+Enter quantity sold: 500
+Enter product number (1-5 or 0 to stop): 0
+
+Total Profit for the Entire Week is: $103,397.00
+Successfully achieved daily profit goal of $10,000.00/day for option "Entire Week"
+
+Quest Phones Profit Calculator
+
+  Option     Time Period
+       1     Single Day
+       2     Entire Week
+       3     Only Weekdays: Mon-Fri
+       4     Only Weekend Days: Sun & Sat
+       0     Exit
+Enter menu option: 3
+For Mon
+Enter product number (1-5 or 0 to stop): 5
+Enter quantity sold: 900
+Enter product number (1-5 or 0 to stop): 0
+For Tue
+Enter product number (1-5 or 0 to stop): 0
+For Wed
+Enter product number (1-5 or 0 to stop): 0
+For Thu
+Enter product number (1-5 or 0 to stop): 0
+For Fri
+Enter product number (1-5 or 0 to stop): 0
+
+Total Profit for the Only Weekdays: Mon-Fri is: $49,113.00
+Did not achieved daily profit goal of $10,000.00/day for option "Only Weekdays: Mon-Fri"
+
+Quest Phones Profit Calculator
+
+  Option     Time Period
+       1     Single Day
+       2     Entire Week
+       3     Only Weekdays: Mon-Fri
+       4     Only Weekend Days: Sun & Sat
+       0     Exit
+Enter menu option: 4
+For Sun
+Enter product number (1-5 or 0 to stop): 0
+For Sat
+Enter product number (1-5 or 0 to stop): 4
+Enter quantity sold: 600
+Enter product number (1-5 or 0 to stop): 0
+
+Total Profit for the Only Weekend Days: Sun & Sat is: $41,802.00
+Successfully achieved daily profit goal of $10,000.00/day for option "Only Weekend Days: Sun & Sat"
+
+Quest Phones Profit Calculator
+
+  Option     Time Period
+       1     Single Day
+       2     Entire Week
+       3     Only Weekdays: Mon-Fri
+       4     Only Weekend Days: Sun & Sat
+       0     Exit
+Enter menu option: 0
+Program ended successfuly
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Assignment Programing group 16/Quest Phones Profit Calculator Part 2.py"
+Quest Phones Profit Calculator
+
+  Option     Time Period
+       1     Single Day
+       2     Entire Week
+       3     Only Weekdays: Mon-Fri
+       4     Only Weekend Days: Sun & Sat
+       0     Exit
+Enter menu option: 7
+Invalid menu selection... Try again
+
+Quest Phones Profit Calculator
+
+  Option     Time Period
+       1     Single Day
+       2     Entire Week
+       3     Only Weekdays: Mon-Fri
+       4     Only Weekend Days: Sun & Sat
+       0     Exit
+Enter menu option: j
+Invalid menu selection... Try again
+
+Quest Phones Profit Calculator
+
+  Option     Time Period
+       1     Single Day
+       2     Entire Week
+       3     Only Weekdays: Mon-Fri
+       4     Only Weekend Days: Sun & Sat
+       0     Exit
+Enter menu option: 1
+Enter a specific day [Sun, Mon, Tue, Wed, Thu, Fri, Sat]: xxx
+Enter a specific day [Sun, Mon, Tue, Wed, Thu, Fri, Sat]: SAT
+For Sat
+Enter product number (1-5 or 0 to stop): 0
+
+Total Profit for the Sat is: $0.00
+Did not achieved daily profit goal of $10,000.00/day for option "Sat"
+
+Quest Phones Profit Calculator
+
+  Option     Time Period
+       1     Single Day
+       2     Entire Week
+       3     Only Weekdays: Mon-Fri
+       4     Only Weekend Days: Sun & Sat
+       0     Exit
+Enter menu option: 0
+Program ended successfuly

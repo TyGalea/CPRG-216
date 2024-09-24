@@ -1,0 +1,7 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit4 Lab1/Unit4 Lab1 Q4.py"
+   1 : Widget                  233 Units @      21.50 = $5,009.50
+   2 : Thingamabob              25 Units @     750.00 = $18,750.00
+Price Increase
+   1 : Widget                  233 Units @      27.95 = $6,512.35
+New Inventory
+   2 : Thingamabob           1,025 Units @     750.00 = $768,750.00

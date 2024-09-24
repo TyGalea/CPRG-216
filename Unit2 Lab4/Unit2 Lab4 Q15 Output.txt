@@ -1,0 +1,6 @@
+PS C:\CPRG216S\Unit2 Lab4> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit2 Lab4/Unit2 Lab4 Q15.py"
+Enter Temperature: 5.4
+Enter Temperature: 3.7
+Enter Temperature: 0
+Enter Temperature: 999
+2 temperatures were above the average temperature of 3.0

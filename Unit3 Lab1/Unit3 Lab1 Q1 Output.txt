@@ -1,0 +1,3 @@
+PS C:\CPRG216S> & C:/Users/tygal/AppData/Local/Programs/Python/Python311/python.exe "c:/CPRG216S/Unit3 Lab1/Unit3 Lab1 Q1.py"
+Give the radius of a circle: 5
+Circumference: 31.416, Area: 78.540

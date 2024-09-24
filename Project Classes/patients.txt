@@ -1,0 +1,6 @@
+ID_Name_Diagnosis_Gender_Age
+12_Pankaj K_Liver Cancer_Male_31
+13_Sumit_Covid_Male_23
+14_Alok_Malaria_Male_45
+15_Ravi_Diabetes_Male_25
+16_Ted E. Bear_Erratic heartbeat_Male_3
